@@ -5,6 +5,10 @@
 I am currently studying Computer Science at the University of Texas at Rio Grande Valley. 
 I hope to learn a lot about computers and coding during my career, as they have been my interest in my life. 
 My interests are to learn more about coding itself and to see how video games are created with coding.
+
+## Contact Info
+
+My personal email is aldoosgc0@gmail.com
 <!--
 **punitiveloki/punitiveloki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
