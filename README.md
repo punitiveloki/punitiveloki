@@ -9,6 +9,11 @@ My interests are to learn more about coding itself and to see how video games ar
 ## Contact Info
 
 My personal email is aldoosgc0@gmail.com
+
+## Programming Languages
+
+I am currently learning C++ in my CSCI 1470 class, and also have a little experience with Java during my AP Computer Science I class.
+I hope to learn other widely used languages, such as Python, C# or Rust.
 <!--
 **punitiveloki/punitiveloki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
